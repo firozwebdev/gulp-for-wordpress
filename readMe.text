@@ -1,0 +1,3 @@
+put those all files in to wordpress root directory.
+then npm install
+then type gulp
